@@ -1,0 +1,45 @@
+si hablamos de tarjeta gráfica, gpu, podemos hablar de las mas potente  pero hoy hablaremos de una en  especifico, que hace diferencia a otras gráficas, estamos hablando de la La monstruosa gráfica, AMD Radeon Pro VII con seis salidas de video. aquí en el mundo de la tecnologia existe una amplia variedad de graficas que escoger, pero hoy te daré razone para que esta grafica puede ser realmente buena como la publica la empresa.
+
+lo que tienes que tener claro es que esta tarjeta no esta destinada para los juegos aunque puedes usarlo a conveniencia o uso 
+personal, pero si quieres para uso de videojuegos puedes usar otras tarjeta grafica como la (AMD Radeon™ RX 580X
+) o las nvidia aque tiene
+GEFORCE GTX 1050 o GEFORCE GTX 1080, que obviamente estas grafica son realmente potente pero asi como es alto en grafico 
+también es alto en dolor, pero esta gráfica amd esta destinada para uso de trabajo.    Si eres una persona que trabaja en diseño o 
+producción, arquitectura, medios y entrenamiento esta tarjeta está enfocada para estaciones de trabajo, y que estarán 
+optimizadas para las cargas de trabajo demandantes de transmisión, simulaciones  complejas y desarrollo de aplicaciones 
+para HPC. También puedes incluirla para tus juegos pero  si no es así, esta tarjeta entonces es para ti.
+
+especificaciones
+
+ahora puedo hablar de las especificaciones, y se que mas de uno no va entender ni la mitad pero tambien se que mas de uno va entender todo lo que tiene o trae la tarjeta grafica de todos modos explicare que traer esta tarjeta aparte de sus 6 salidas de video, primero vamos con la cantidad de memoria almacenada que tienes unos 16 gb hbm2 que hasta ahora va por lo limites tecnoilogicos de nvidia.
+
+-INTERFAZ: PCIe 3.0 y compatible con 4.0 x16
+
+-ANCHO DE BANDA:  1024 Gbps
+
+-MEMORIA DE INTERFAZ :  4gb HBM2
+
+SALIDAS DE VIDEO         6 Mini-DisplayPort 1.4
+
+SOPORTE DE RESOLUCIÓN         Hasta 6 en 4K; hasta 3 en 5K; y sólo 1 en 8K. Todo a 60Hz.
+
+ACELERACIÓN DE VIDEO         HEVC Encode en 4K y  Decode en 8K. 
+
+SOPORTE DE APIS   DirectX 12, Open G L 4.6, OpenCLTM 2.0, Vulkan 1.1 y Shader Model 5.1
+
+MÁXIMO CONSUMO ENERGÉTICO         250 W esta aaparte puedo decir aque si me impresiono mas, sobre esta tarjeta. por que literalmente esta es la cantidad de wat que tiene mi fuente de poder, de verdad que me imagino como debe de recalentar esto con un procesador de ryzen.
+
+COMPATIBILIDAD CON SISTEMAS OPERATIVOS 
+
+PRECIO  1899 dólarese esto es un dolor muy fuerte pero como les digo, hasta ahora amd lleva un buena
+ imagen por que se ha prapagado una informacion sobre nvidia sobres tarjetas grafica que van hacer 
+lanzadas , si quieres que hable sobre este tema puedes suscribirte a mi canal si asi lo deseas o 
+darle like a este video.
+
+Hasta ahora no hay un video que muestre el potencial de esta grafica por que fue lanzado el 13 de mayo del 2020,
+ si hay un video de demostracion que llegue a conseguir pues lo subiré a mi pagina de facebook,
+ pero por ahora no hay posibilidad ya que como vemos el precio es muy alto.  
+
+
+
+
