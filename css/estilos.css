@@ -1,0 +1,133 @@
+
+body {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+nav li {
+	list-style: none;
+	float: left;
+}
+
+nav ul {
+	float: right;
+	margin-top: 50px
+}
+
+nav a {
+	text-decoration: none;
+	color: #d4cbcb;
+	padding: 20px;
+	font-size: 22px;
+	transition: .5s;
+}
+
+nav a:hover {
+	text-decoration: none;
+	transition: .5s;
+	color:blue;
+}
+
+.wrapper {
+	max-width: 990px;
+	margin: auto;
+}
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header {
+		margin-bottom: 100px;
+}
+
+.card {
+	margin: 50px;
+}
+
+.imaprin img {
+	margin: 50px;
+}
+
+
+p {
+	margin-top: 100px;
+}
+
+.articulo p {
+	font-size: 22px;
+	font-family: arial;
+	max-width: 600px;
+	margin-top: 80px;
+}
+
+
+.card a:hover {
+	text-decoration: none;
+}
+
+p img {
+	width:600px; 
+	height:;
+}
+
+ {
+	color:#6e2d48;
+}
+
+.container2 {
+	background: rgba(0, 0, 0, .2);
+	height: 400px;
+}
+
+.container2 img {
+	margin-left: 200px;
+	padding: 30px;
+		transition: 1.1s;
+
+
+}
+
+.margin {
+	text-align: center;
+} 
+
+.container3 {
+	width: 100%;
+	height: 100px;
+	background: #4a4545;
+}
+.container3 {
+	text-align: center;
+}
+
+
+.container2 img:hover{
+	background: rgba(70, 73, 74, .3);
+	transition: 1.1s;
+	height: 200px; 
+}
+
+
+.container-somos {
+	background: rgba(46, 46, 45, .3);
+	width: 60%;
+	margin: auto;
+	margin-top: 200px;
+	padding: 90px;
+	font-size: 20px;
+}
+
+.q {
+	background-image: url('../imagen/c91.jpg');
+	width: 100%;
+	height: 650px;
+	position: absolute;
+}
+
